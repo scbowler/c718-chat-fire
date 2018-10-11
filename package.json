@@ -1,7 +1,7 @@
 {
-  "name": "react_starter",
+  "name": "chat-fire",
   "version": "1.0.0",
-  "description": "Starting setup for react redux project",
+  "description": "Chat app built with ReactJS, ReduxJS, and Firebase",
   "main": "index.js",
   "scripts": {
     "start": "node dev_server.js",
@@ -12,13 +12,16 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Learning-Fuze/react_starter.git"
+    "url": "https://github.com/scbowler/chat-fire.git"
   },
   "dependencies": {
     "babel-polyfill": "^6.26.0",
+    "firebase": "^5.5.3",
+    "materialize-css": "^1.0.0",
     "react": "^16.4.0",
     "react-dom": "^16.4.0",
     "react-redux": "^5.0.7",
+    "react-router-dom": "^4.3.1",
     "redux": "^4.0.0"
   },
   "devDependencies": {
