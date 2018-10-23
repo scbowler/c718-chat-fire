@@ -3,6 +3,7 @@ import { Route, Switch } from 'react-router-dom';
 import Lobby from './lobby';
 import Create from './create';
 import Chat from './chat';
+import './rooms.css';
 
 export default props => {
     const { path } = props.match;
