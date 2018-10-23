@@ -13,7 +13,7 @@ class Nav extends Component {
                             <Link to="/">Home</Link>
                         </li>
                         <li>
-                            <Link to="/chat-room">Chat Room</Link>
+                            <Link to="/rooms">Chat Lobby</Link>
                         </li>
                     </ul>
                 </div>

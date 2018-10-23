@@ -1,0 +1,13 @@
+.rooms-list a {
+    display: block;
+}
+
+.send-button {
+    position: relative;
+    top: 26px;
+}
+
+.chat-log {
+    height: 216px;
+    overflow: scroll;
+}
